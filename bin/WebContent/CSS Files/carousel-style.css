@@ -1,0 +1,10 @@
+@CHARSET "ISO-8859-1";
+
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+	width:1600px;
+       height:900px;
+	margin: auto;
+}
+
+
